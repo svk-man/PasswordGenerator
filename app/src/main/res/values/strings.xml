@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="options_digits">Цифры</string>
+    <string name="options_uppercase_letters">Прописные буквы</string>
+    <string name="options_lowercase_letters">Строчные буквы</string>
+    <string name="options_special_symbols">Спец. символы %, *, ),?, @, #, $, ~</string>
+    <string name="options_length">Длина пароля:</string>
+    <string name="options_length_after">- символов</string>
+    <string name="button_create_password">Создать пароль</string>
+    <string name="error_input_number">ошибка: введите число от 1 до 100</string>
+    <string name="options_length_default">6</string>
+    <string name="error_length">ошибка: длина пароля ограничена 100 символами</string>
+    <string name="passwords">Ваши сгенерированные пароли:\n</string>
+</resources>
